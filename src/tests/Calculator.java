@@ -6,7 +6,7 @@ public class Calculator {
 		int a=10;
 		int b=20,c;
 		c=a+b;
-		System.out.println("+c");
+		System.out.println(c);
 
 
 	}
