@@ -6,8 +6,11 @@ public class Addition {
 		int a=10;
 		int b=20,c;
 		c=a+b;
-		System.out.println("+c");
+		System.out.println(c);
 
 	}
-
+public int multi(int a,int b)
+{
+	return a*b;
+}
 }
